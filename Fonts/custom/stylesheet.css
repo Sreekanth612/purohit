@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Millenia Personal Use';
+    src: url('MilleniaPersonalUse.woff2') format('woff2'),
+        url('MilleniaPersonalUse.woff') format('woff'),
+        url('MilleniaPersonalUse.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
